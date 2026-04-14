@@ -111,10 +111,22 @@ python -m streamlit run app.py
 
 ## 💡 Example Queries
 
-* What is Artificial Intelligence?
-* Explain Machine Learning
-* What is Streamlit?
-* What is a vector database?
+You can try the following queries in the chatbot:
+
+- What is Artificial Intelligence?
+- What is Machine Learning?
+- What is Deep Learning?
+- What is Python used for?
+- What is Java?
+- What is Streamlit?
+- What is a vector database?
+- What is Endee?
+- What is RAG?
+- What is Semantic Search?
+- What is NLP?
+- What is Cloud Computing?
+- What is Git?
+- What is GitHub?
 
 ---
 
@@ -139,6 +151,16 @@ python -m streamlit run app.py
 
 ---
 
+## 📸 Screenshots
+
+### Chat Interface
+![Chat UI](assets/scrnsht1.png)
+
+### Example Output
+![Output](assets/scrnsht2.png)
+
+ ---
+
 ## 👩‍💻 Author
 
 **Mathivadhana P**
@@ -155,12 +177,5 @@ This project demonstrates how modern AI systems combine:
 
 to build intelligent, context-aware applications.
 
-## 📸 Screenshots
-
-### Chat Interface
-![Chat UI](assets/scrnsht1.png)
-
-### Example Output
-![Output](assets/scrnsht2.png)
 
 ---
