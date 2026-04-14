@@ -155,4 +155,12 @@ This project demonstrates how modern AI systems combine:
 
 to build intelligent, context-aware applications.
 
+## 📸 Screenshots
+
+### Chat Interface
+![Chat UI](assets/screenshot1.png)
+
+### Example Output
+![Output](assets/screenshot2.png)
+
 ---
