@@ -1,26 +1,15 @@
 from endee_client import search
-from memory import get_memory
 
 def generate_answer(query):
-    docs = search(query)
-    context = "\n".join(docs)
+    results = search(query)
 
-    memory = get_memory()
-    memory_text = "\n".join(
-        [f"User: {m['user']}\nBot: {m['bot']}" for m in memory]
-    )
+    if not results:
+        return "I don’t have information about this in my knowledge base."
 
-    # Simple AI logic (no OpenAI needed for now)
-    answer = f"""
-Based on the knowledge base:
+    best_score, best_doc = results[0]
 
-{context}
+    # Threshold check (IMPORTANT)
+    if best_score < 0.5:
+        return "I don’t have information about this in my knowledge base."
 
-Previous conversation:
-{memory_text}
-
-Answer:
-{context.split('.')[0]}
-"""
-
-    return answer
+    return best_doc

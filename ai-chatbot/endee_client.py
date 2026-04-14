@@ -42,4 +42,4 @@ def search(query, top_k=3):
 
     scored.sort(reverse=True, key=lambda x: x[0])
 
-    return [text for _, text in scored[:top_k]]
+    return scored[:top_k]   # return score + text
