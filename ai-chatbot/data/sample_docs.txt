@@ -1,0 +1,39 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn.
+
+Machine Learning is a subset of AI that allows systems to learn from data and improve performance without explicit programming.
+
+Deep Learning is a type of machine learning based on neural networks with multiple layers.
+
+Python is a high-level programming language widely used for artificial intelligence, data science, and web development.
+
+Java is a high-level programming language used for building enterprise-level applications, mobile apps, and backend systems.
+
+Streamlit is an open-source Python library used to build interactive web applications quickly.
+
+A vector database stores data as numerical vectors (embeddings) and enables semantic search.
+
+Endee is a vector database system used to store and retrieve embeddings efficiently.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation to produce accurate responses.
+
+Semantic search improves search accuracy by understanding the meaning of queries instead of exact keyword matching.
+
+A chatbot is an AI system designed to simulate human conversation through text or voice.
+
+Natural Language Processing (NLP) is a field of AI that focuses on interaction between computers and human language.
+
+Data science is the field of extracting insights and knowledge from data using scientific methods.
+
+Cloud computing provides computing services such as storage and processing over the internet.
+
+APIs (Application Programming Interfaces) allow different software systems to communicate with each other.
+
+Databases are structured systems used to store, manage, and retrieve data efficiently.
+
+Git is a version control system used to track changes in code.
+
+GitHub is a platform for hosting and collaborating on code repositories.
+
+Memory in AI systems allows retention of past interactions for better context-aware responses.
+
+Large Language Models (LLMs) are AI models trained on vast amounts of text data to generate human-like responses.
