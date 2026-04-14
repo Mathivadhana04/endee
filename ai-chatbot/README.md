@@ -158,9 +158,9 @@ to build intelligent, context-aware applications.
 ## 📸 Screenshots
 
 ### Chat Interface
-![Chat UI](assets/screenshot1.png)
+![Chat UI](assets/scrnsht1.png)
 
 ### Example Output
-![Output](assets/screenshot2.png)
+![Output](assets/scrnsht2.png)
 
 ---
